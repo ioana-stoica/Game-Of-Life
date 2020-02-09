@@ -29,6 +29,6 @@ body {
 #game-set {
     margin: 50px auto;
     width: auto;
-    isplay: flex;
+    display: flex;
     justify-content: center;
 }
