@@ -5,8 +5,6 @@ This interactive animation is based on one of the first and best known examples 
 
 The Game of Life is a *zero-player game* that develops on the basis of its original state.
 
-The user is asked at the beginning of the game to choose board dimensions.
-
 The application displays a board with the start animation (glider), and the user can turn on and off individual fields with the click of a mouse.
 
 With the two buttons (PLAY/PAUSE) the user can stop the animation, change its state and turn it on again.

@@ -1,7 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
 
-    console.log('hy');
-
      function GameOfLife(boardWidth, boardHeight) {
         this.width = boardWidth;
         this.height = boardHeight;
@@ -140,9 +138,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     }
 
-var boardWidth = prompt('Please enter boardWidth');
-var boardHeight = prompt('Please enter boardHeight');
-    var game = new GameOfLife(boardWidth, boardHeight);
+    var game = new GameOfLife(50, 50);
     console.log(game);
 
      game.createBoard();

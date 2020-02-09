@@ -26,7 +26,9 @@ body {
     min-width: 100px
 }
 
-#game-menu {
+#game-set {
     margin: 50px auto;
     width: auto;
+    isplay: flex;
+    justify-content: center;
 }
