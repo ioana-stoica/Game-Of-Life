@@ -20,3 +20,4 @@ With the two buttons (PLAY/PAUSE) the user can stop the animation, change its st
     * every dead cell with exactly three live neighbors becomes a live cell again.
     
 # Play it here: 
+https://ioana-stoica.github.io/Game-Of-Life/
